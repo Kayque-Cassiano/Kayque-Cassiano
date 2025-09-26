@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao meu GitHub!
 ### 👩‍💻 Sobre Mim
 - 🎓 **Formação**: Curso técnico em Desenvolvimento de Sistemas
 - 🌱 **Aprendendo**: React, Java, Spring-Boot
-- 📫 **Como me encontrar**: [Kayque Cassiano](www.linkedin.com/in/kayque-cassiano-620a8a2ab/)
+- 📫 **Como me encontrar**: [Kayque Cassiano](https://www.linkedin.com/in/kayque-cassiano-620a8a2ab/)
 
 ---
 
