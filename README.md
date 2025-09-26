@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayque-Cassiano&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura&count_private=true&hide_border=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayque-Cassiano&layout=compact&hide_border=true&bg_color=00000000" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayque-Cassiano&layout=compact&hide_border=true&bg_color=00000000" height="160em"/>
 </div>
 
 ---
