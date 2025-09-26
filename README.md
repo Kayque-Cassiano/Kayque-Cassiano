@@ -17,8 +17,8 @@ Seja bem-vindo(a) ao meu GitHub!
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-gilt-mu-47.vercel.app/api?username=Kayque-Cassiano&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura&count_private=true&hide_border=true&bg_color=00000000&card_width=500" height=200 align="center"/>
-  <img src="https://github-readme-stats-gilt-mu-47.vercel.app/api/top-langs/?username=Kayque-Cassiano&layout=compact&hide_border=true&bg_color=00000000&count_private=true&langs_count=6&card_width=500" height=200 align="center"/>
+  <img src="https://github-readme-stats-gilt-mu-47.vercel.app/api?username=Kayque-Cassiano&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura&count_private=true&hide_border=true&bg_color=00000000" height=200 align="center"/>
+  <img src="https://github-readme-stats-gilt-mu-47.vercel.app/api/top-langs/?username=Kayque-Cassiano&layout=compact&hide_border=true&bg_color=00000000&count_private=true&langs_count=6" height=200 align="center"/>
 </div>
 
 ---
